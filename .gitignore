@@ -1,0 +1,6 @@
+#virtual environment
+project
+
+__pycache__/
+
+info

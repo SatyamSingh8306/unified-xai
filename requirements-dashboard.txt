@@ -1,0 +1,7 @@
+# Dashboard and web app dependencies
+streamlit>=1.20.0,<2.0.0
+dash>=2.8.0,<3.0.0
+dash-bootstrap-components>=1.3.0,<2.0.0
+gradio>=3.20.0,<4.0.0
+fastapi>=0.95.0,<1.0.0
+uvicorn>=0.20.0,<1.0.0
