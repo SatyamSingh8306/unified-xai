@@ -6,12 +6,11 @@
 [![Python](https://img.shields.io/pypi/pyversions/unified-xai.svg)](https://pypi.org/project/unified-xai/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Documentation](https://readthedocs.org/projects/unified-xai/badge/?version=latest)](https://unified-xai.readthedocs.io/en/latest/?badge=latest)
-[![Tests](https://github.com/yourusername/unified-xai/workflows/Tests/badge.svg)](https://github.com/SatyamSingh8306/unified-xai/actions)
+<!-- [![Tests](https://github.com/SatyamSingh8306/unified-xai/workflows/Tests/badge.svg)](https://github.com/SatyamSingh8306/unified-xai/actions) -->
 <!-- [![Coverage](https://codecov.io/gh/yourusername/unified-xai/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/unified-xai) -->
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-[**Documentation**](https://unified-xai.readthedocs.io) | [**Tutorials**](https://unified-xai.readthedocs.io/tutorials) | [**API Reference**](https://unified-xai.readthedocs.io/api) | [**Paper**](https://arxiv.org/abs/xxxx.xxxxx)
-
+[**Documentation**](https://satyamsingh8306.github.io/unified-xai/) | [**Tutorials**](https://satyamsingh8306.github.io/unified-xai/) | [**API Reference**](https://satyamsingh8306.github.io/unified-xai/)
 </div>
 
 ---
